@@ -9,5 +9,5 @@ Please run below commands,
 
 Sample Admin Login
 
-Email - admin@library.com
-Password - admin@123
+Email - "admin@library.com"
+Password - "admin@123"
